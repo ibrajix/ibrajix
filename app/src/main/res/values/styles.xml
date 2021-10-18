@@ -1,0 +1,22 @@
+<!--
+    Written and Developed by Inuwa Ibrahim - https://linktr.ee/Ibrajix
+-->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Ibrajix" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <!--<item name="android:windowDrawsSystemBarBackgrounds">false</item>-->
+
+        <!-- Status bar color. -->
+
+        <item name="android:statusBarColor">@color/white</item>
+        <!--Font-->
+        <item name="android:fontFamily">@font/cabin_regular</item>
+
+        <!--Navigation bar color-->
+
+
+    </style>
+
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Written and Developed by Inuwa Ibrahim - https://linktr.ee/Ibrajix
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/meFragment"
+        android:icon="@drawable/ic_person_unfilled"
+        android:title="@string/me"
+        />
+
+    <item
+        android:id="@+id/projectsFragment"
+        android:icon="@drawable/ic_projects_unfilled"
+        android:title="@string/projects"
+        />
+
+    <item
+        android:id="@+id/experienceFragment"
+        android:icon="@drawable/ic_experience_unfilled"
+        android:title="@string/experience"
+        />
+
+    <item
+        android:id="@+id/contactFragment"
+        android:icon="@drawable/ic_contact_unfiiled"
+        android:title="@string/contact"
+        />
+</menu>

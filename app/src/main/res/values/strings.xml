@@ -1,0 +1,69 @@
+<!--
+    Written and Developed by Inuwa Ibrahim - https://linktr.ee/Ibrajix
+-->
+<resources>
+    <string name="app_name">Ibrajix</string>
+    <string name="ibra">Ibra</string>
+    <string name="jix">Jix</string>
+    <string name="hi_comma">Hi,</string>
+    <string name="my_name">I am Inuwa Ibrahim</string>
+    <string name="btn_helper">Click the button above to learn more about me :)</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="me">Me</string>
+    <string name="projects">Projects</string>
+    <string name="experience">Experience</string>
+    <string name="contact">Contact</string>
+    <string name="inuwa_ibrahim">Inuwa Ibrahim</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="abuja_nigeria">Abuja, Nigeria</string>
+    <string name="linktree">https://linktr.ee/Ibrajix</string>
+    <string name="about_me">I am a software engineer with over 3 years of experience in engineering and programming.\n \nI specialize mostly in Android Development and also double up as a UI/UX designer</string>
+    <string name="my_skills">• Mobile Development \n• User Interface Design \n• User Experience Design \n• Writing</string>
+    <string name="languages">• Kotlin \n• Java \n• PHP \n• Dart</string>
+    <string name="technologies">• Android Studio \n• Github \n• Figma \n• VS Code</string>
+    <string name="projects_helper">Just a list of some projects I have worked on solely (Without collaborating)</string>
+
+    <!-- Projects -->
+    <string name="dmp">Direct Music Player</string>
+    <string name="news_fly">NewsFly</string>
+    <string name="snapchat_clone">Snapchat Clone</string>
+    <string name="dcc">Direct Currency Converter</string>
+    <string name="branch_clone">Branch Clone</string>
+    <string name="abeg_app_clone">Abeg App Clone</string>
+    <string name="capital_land">Capital Land</string>
+
+    <string name="dmp_desc">An easy to use, simple music player with an elegant interface built with recent technologies and contains no ads</string>
+    <string name="news_fly_desc">A modern news application which features virtually ALL recent and recommended android development tech stack and tools used in developing a performant, beautiful application.</string>
+    <string name="snapchat_clone_desc">A clone of popular social media app called snapchat, implementing similar design pattern and highlighting major destinations of the app</string>
+    <string name="branch_clone_desc">A clone of financial application called Branch International (branch.com.ng) showing close to perfect design pattern used in the original app</string>
+    <string name="dcc_desc">A simple currency converter app built with recommended android architectural pattern, best practices. This app uses most recent technologies, libraries and design pattern recommended by the android team. It is free, open source and hosted on my GitHub.</string>
+    <string name="capital_land_desc">An E-Commerce App for Capital Land LTD (Company) that helps connect existing customers with the company. Verified customers can make purchases (In app payment), keep track of products ordered.</string>
+
+    <string name="dmp_url">https://play.google.com/store/apps/details?id=com.ibrajix.directmusicplayer</string>
+    <string name="newsfly_url">https://github.com/ibrajix/NewsFly</string>
+    <string name="snapchat_clone_url">https://github.com/ibrajix/SnapchatClone</string>
+    <string name="dcc_url">https://play.google.com/store/apps/details?id=com.ibrajix.directcurrencyconverterapp</string>
+    <string name="abeg_app_clone_url">https://play.google.com/store/apps/details?id=com.ibrajix.directcurrencyconverterapp</string>
+    <string name="branch_clone_url">https://github.com/ibrajix/BranchClone</string>
+    <string name="capital_land_url">https://play.google.com/store/apps/details?id=com.capitalapp.capitallandinvoices</string>
+    <string name="experience_helper">Some companies I have worked for over the few years as an engineer</string>
+
+
+    <string name="company_1_name">Capital App LTD</string>
+    <string name="company_2_name">iTech Solutions</string>
+    <string name="company_3_name">Easyasitis</string>
+
+    <string name="company_1_role_desc">As a software engineer, I worked with a team that builds several enterprise applications such as apps for commercial microfinance banks</string>
+    <string name="company_2_role_desc">Provided solutions for individuals, firms, organizations by giving them an online presence. Ran the I.T section of the company</string>
+    <string name="company_3_role_desc">Collaborated with other developers to help build an online community that helps you learn by bringing you closer to people who are interested in the same things as you</string>
+    <string name="contact_helper">Feel free to reach out to me on any of these platforms</string>
+    <string name="email">Email</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Youtube</string>
+    <string name="github">Github</string>
+    <string name="medium">Medium</string>
+
+</resources>
