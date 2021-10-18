@@ -15,7 +15,7 @@ A software engineer. I specialize in Android Development and also double up as a
 
 You can download my portfolio app (this repo) to learn more about me:
 
-- Go to <a href="https://github.com/ibrajix/NewsFly/releases">Releases</a> to download the latest apk of my portfolio app
+- Go to <a href="https://github.com/ibrajix/ibrajix/releases">Releases</a> to download the latest apk of my portfolio app
 
 
 ## CONTACT
