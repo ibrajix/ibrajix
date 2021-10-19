@@ -16,7 +16,6 @@ import com.ibrajix.ibrajix.model.Experience
 class ExperienceAdapter : ListAdapter<Experience, ExperienceAdapter.ExperienceViewHolder>(
     ExperienceDiffCallback
 ) {
-
     class ExperienceViewHolder private constructor(private val binding: RcvLytExperienceBinding) : RecyclerView.ViewHolder(binding.root){
 
         fun bind(item: Experience){
