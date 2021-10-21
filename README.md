@@ -1,10 +1,6 @@
 <h1 align="center"><img src="brand/logo.svg" width="50%"></h1>
 
 
-<p align="center">
-<img src ="https://user-images.githubusercontent.com/39574228/137735348-0a6775bc-8ebe-43b8-bfbb-1f8446924ec8.png" width="80%">
-</p>
-
 
 ## WHO?
 
