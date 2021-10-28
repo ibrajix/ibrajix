@@ -14,7 +14,7 @@ A software engineer. I specialize in Android Development and also double up as a
 
 ## PORTFOLIO
 
-You can download my portfolio app to learn more about me:
+You can download my portfolio app (the one with the UI above 👆) to learn more about me:
 
 - Go to <a href="https://github.com/ibrajix/ibrajix/releases">Releases</a> to download the latest apk of my portfolio app
 
