@@ -7,9 +7,13 @@
 I am Inuwa Ibrahim.
 A software engineer. I specialize in Android Development and also double up as a UI/UX designer.
 
+<p align="center">
+<img src ="https://user-images.githubusercontent.com/39574228/137735348-0a6775bc-8ebe-43b8-bfbb-1f8446924ec8.png" width="80%">
+</p>
+
 ## PORTFOLIO
 
-You can download my portfolio app (<a href="https://github.com/ibrajix/ibrajix/">this repo</a>) to learn more about me:
+You can download my portfolio app to learn more about me:
 
 - Go to <a href="https://github.com/ibrajix/ibrajix/releases">Releases</a> to download the latest apk of my portfolio app
 
