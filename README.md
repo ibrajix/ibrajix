@@ -6,7 +6,7 @@
 
 
 
-## WHO?
+##
 
 I am Inuwa Ibrahim.
 A software engineer. I specialize in Android Development and also double up as a UI/UX designer.
