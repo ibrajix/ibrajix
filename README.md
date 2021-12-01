@@ -1,5 +1,3 @@
-<h1 align="center"><img src="brand/logo.svg" width="50%"></h1>
-
 ##
 
 I am Inuwa Ibrahim.
